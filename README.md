@@ -1,4 +1,10 @@
-# Cayman theme
+# UniOT project page
+
+[Project page](changwxx.github.io/UniOT-webpage/) for [NeurIPS 2022 Spotlight] Unified Optimal Transport Framework for Universal Domain Adaptation.
+
+[[paper]](https://arxiv.org/abs/2210.17067) [[code]](https://github.com/changwxx/UniOT-for-UniDA)
+
+<!-- # Cayman theme
 
 Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
 
@@ -16,4 +22,4 @@ If you'd like to use this theme with Jekyll, Pietro Menna has put together a pac
 
 # License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
+This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license. -->
