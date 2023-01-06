@@ -1,8 +1,8 @@
-# UniOT project page
+# KRKC project page
 
-[Project page](https://changwxx.github.io/UniOT-webpage/) for [NeurIPS 2022 Spotlight] Unified Optimal Transport Framework for Universal Domain Adaptation.
+[Project page](https://cly234.github.io/KRKC-projectpage/) for [AAAI 2023] Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation
 
-[[paper]](https://arxiv.org/abs/2210.17067) [[code]](https://github.com/changwxx/UniOT-for-UniDA)
+[[paper]](https://arxiv.org/abs/2211.16201) [[code]](https://github.com/cly234/LReID-KRKC)
 
 <!-- # Cayman theme
 
